@@ -1,0 +1,40 @@
+body {
+	background-color: white;
+}
+
+#video {
+	width: 100%;
+}
+
+#form {
+	background-image: url('../images/fondo.png');
+	text-align: center;
+	height: 100%;
+}
+
+.ab {
+	color: white;
+}
+
+#vid {
+	padding: 0px;
+}
+#me {
+	color: white;
+	font-size: 18px;
+	font-family: helvetica;
+	font-weight: bold;	
+}
+
+.a{
+	float: left;
+}
+
+
+
+select{
+	width: 100%;
+	height: 27px;
+	font-family: helvetica;
+	font-size: 18px;	
+}
